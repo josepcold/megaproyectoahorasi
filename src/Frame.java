@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import javax.swing.JOptionPane;
 
 
-
+//josep
 public class Frame extends javax.swing.JFrame {
 
   
